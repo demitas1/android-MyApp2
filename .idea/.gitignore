@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# ユーザー固有の設定
+/caches/
+/libraries/
+/modules/
+/modules.xml
+/dictionaries/
+/jarRepositories.xml
+
+# デプロイメント設定（ユーザー固有）
+/deploymentTargetSelector.xml
+/appInsightsSettings.xml
+
+# データソース
+/dataSources/
+/dataSources.ids
+/dataSources.local.xml
+/sqlDataSources.xml
+
+# その他
+/dynamic.xml
+/uiDesigner.xml
+/dbnavigator.xml
+/other.xml
