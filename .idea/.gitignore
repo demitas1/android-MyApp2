@@ -25,3 +25,7 @@
 /uiDesigner.xml
 /dbnavigator.xml
 /other.xml
+
+# デバイス・VCS設定（ユーザー固有）
+/deviceManager.xml
+/vcs.xml
